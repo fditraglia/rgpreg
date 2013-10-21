@@ -2,11 +2,11 @@
 #October 20th, 2013
 #Francis J. DiTraglia
 
+#This is a new comment in the file that I might use sometime.
 
 #This file implements fully Bayesian Gaussian Process Regression with an unknown error variance using a Gibbs sampler. 
 
-#Some Preliminary notes:
-
+#Some notes on what I'm doing:
   #Outer Product in R
     #outer(a, b, g)[i,j] is g(a[i], b[j])
 
