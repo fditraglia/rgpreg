@@ -1,9 +1,9 @@
-#GP_regression_simple.R
-#July 9th, 2011
+#GP_regression_gibbs.R
+#October 20th, 2013
 #Francis J. DiTraglia
 
 
-#This file implements the simplest possible Gaussian Process Regression model, using the algorithm given on page 19 of Rassmussen & Williams' book "Gaussian Processes for Machine Learning" For simplicity, we start with regression using a single input variable.
+#This file implements fully Bayesian Gaussian Process Regression with an unknown error variance using a Gibbs sampler. 
 
 #Some Preliminary notes:
 
